@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coffin for the Good Old Cause; or, A sober word by way of caution to the Parliament and Army, or such in both as have prayed, fought, and bled for its preservation. Written by an affectionate friend to it and them</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80037</idno>
+            <idno type="STC">Wing C4889</idno>
+            <idno type="STC">Thomason E1015_3</idno>
+            <idno type="STC">ESTC R208170</idno>
+            <idno type="EEBO-CITATION">99867147</idno>
+            <idno type="PROQUEST">99867147</idno>
+            <idno type="VID">119438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119438)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coffin for the Good Old Cause; or, A sober word by way of caution to the Parliament and Army, or such in both as have prayed, fought, and bled for its preservation. Written by an affectionate friend to it and them</title>
+                  <author>Spratt, Thomas, fl. 1659, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Attributed to Thomas Spratt in the Wrenn Catalog.</note>
+                  <note>Annotation on Thomason copy: "ffeb: 2 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:119438:1"/>
+            <pb facs="tcp:119438:1" rendition="simple:additions"/>
+            <head>A COFFIN FOR THE Good Old Cauſe; OR, A Sober Word by way of Caution to the Parliament and Army, or ſuch in both as have prayed, fought, and bled for its Preſervation.</head>
+            <byline>Written by an Affectionate Friend to it and them<g ref="char:punc">▪</g>
+            </byline>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>IT is a ſolemn and ſacred ſaying, <hi>That a wiſe man fore<g ref="char:EOLhyphen"/>ſeeth an evil, and preventeth it, but fools go on, and are pu<g ref="char:EOLhyphen"/>niſhed:</hi> That there is ſuch an <hi>eminent evil</hi> impending, as your eye hath not ſeen ſince firſt you ſate in your Seats, or wore ſwords by your ſides; ſuch an <hi>Evil</hi> as will (if the wiſdome and goodneſs of God prevent not) bee the <hi>inevitable Ruine</hi> of that <hi>Intereſt</hi> you have been the <hi>Aſſertors</hi> of, is moſt certain; or no leſs than all your friends in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> are in an extream errour.</p>
+            <p>But a little to convince you hereof (becauſe man is a rational creature, and ought not to ſtir one ſtep in any Act, but as hee is led thereto, by the light thereof) I ſhall indeavour to ſpread before you the danger, and then pray the Father of Mercies to give you hearts to do your duty in preventing it.</p>
+            <list>
+               <item>1 Your <hi>Army</hi> is unſetled.</item>
+               <item>2 Your <hi>Houſe</hi> divided.</item>
+               <item>3 Your <hi>Friends</hi> diſcouraged.</item>
+               <item>4 Your <hi>Trade</hi> decayed.</item>
+               <item>5 Your <hi>Treaſure</hi> exhauſted.</item>
+               <item>6 Your <hi>Enemies</hi> increaſed and heightned.</item>
+            </list>
+            <pb n="2" facs="tcp:119438:2"/>
+            <p>1 That your <hi>Army is unſetled,</hi> is moſt certain; Neither can the courſe you take <hi>ſettle</hi> it, but <hi>diſcompoſe</hi> it more every minute; for you fill it with <hi>ſtrange faces,</hi> which will make as <hi>ſtrange effects.</hi> It is true, the <hi>Heads</hi> of Regiments (yea and Captains) that have been Capital Offenders, it is not your prudence to truſt; but for the <hi>Inferiour Fry,</hi> (who ever yet have been the faſteſt friends to your power, and the publick) to bee turned out by whole-ſale, without a fair and legal hearing, is not for your honour, nor intereſt. You have ſeen how little a Collonel ſignifies, where his acquaintance is but green; ſouldiers love to bee lead by them, they have bled withall.</p>
+            <p>Again, How many men have you turned out even for their <hi>Judgements ſake,</hi> that never ſinned againſt your power at that rate, as many that are kept in? If an Anabaptiſt hath behaved himſelf equal with one of another perſwaſion; Let their incouragement bee equal alſo: how will you perſwade the people you intend a Common-wealth, whiles thus par<g ref="char:EOLhyphen"/>tial in your petty proceeds? it is not what hee is, but what hee hath done ought to bee the queſtion to all. I know a Quaker in Arms, that eminently ſerved you<g ref="char:punc">▪</g> yet me<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I not with one that is willing to ſerve him. If you will call in the Conduct of the Army, as in 46. (which was as Presby<g ref="char:EOLhyphen"/>terian as ever) they will loſe it before a year bee over, as then they did. The Anabaptiſt was thicker in Office, than any other perſwaſion but immediately before this turn, yet could hee not keep it, nor ſtem the tyde, when the turn came; and juſt is it with the Great <hi>Jehovah,</hi> that that party that pretends to Common Liberty, and yet graſps at all, ſhould loſe even what hee already hath. Much Reaſon might alſo bee urged for this; for naturally all parties con<g ref="char:EOLhyphen"/>ſpire againſt any that alone injoyes the Power<g ref="char:punc">▪</g> as nine at a Table would at the tenth, when hee ingroſſes the entertain<g ref="char:EOLhyphen"/>ment of the whole.</p>
+            <p>Moreover, that party that is ſo induſtriouſly ſet upon in<g ref="char:EOLhyphen"/>croaching all, can leaſt bee credited, becauſe of their many former defections, and attempts to betray the Cauſe: <hi>Love</hi> was belyed, if not a Presbyterian, and <hi>Booth</hi> no leſs. I ſpeak it not to reflect, for there are that I love and honour of that
+<pb n="3" facs="tcp:119438:2"/> perſwaſion, as convinced they do indeed deſerve it, both as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uly pious perſons, and friends to the publick: As of the o<g ref="char:EOLhyphen"/>ther hand, I do beleeve there is more than a remnant of that opinion; Royal. Whereas the Sectarian party cannot bee charged by envy it ſelf, with treaſon of that nature, nor is this a bare ſurmiſe iſſuing from a jealous brain, whiles we ſee even one of the Commiſſioners refuſe the Oath againſt the <hi>Stuarts</hi> claim, and Sir <hi>Authony Aſhly Cooper</hi> (an old Ca<g ref="char:EOLhyphen"/>valleer) made a Collonel, whiles his Malignancy incapaci<g ref="char:EOLhyphen"/>tates him to bee a member of the Council; Officers gene<g ref="char:EOLhyphen"/>rally are moſt civil, and pocket up injuries ſilently; but when you come to model the Troops, as you have done the Con<g ref="char:EOLhyphen"/>duct, your work will recoyl; or if you do it not, your New Officers will have no command over the old fouldiers. Thus the further and faſter you go in your <hi>Settlement,</hi> the more <hi>unſetled</hi> are you; like one that mends his pace when his way is wrong.</p>
+            <p>Secondly, Your <hi>Houſe is divided.</hi> I will onely <hi>Reminde</hi> you of the Word of the Lord Chriſt, from whoſe lips never came guile, and who certainly may bee beleeved. <hi>A houſe divided againſt it ſelf cannot ſtand,</hi> which carries conviction with it, that your <hi>Ruine</hi> (except prevented) is <hi>ready</hi> to en<g ref="char:EOLhyphen"/>ter. And I think, you think, the Cauſe and you muſt fall to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>Thirdly, Your <hi>Friends are diſcouraged.</hi> Many waies, and for many things: your <hi>new modelling</hi> the Army, putting the <hi>Sword</hi> into the hands of <hi>Rigid, Royal, Neutral ſpirits,</hi> that ne<g ref="char:EOLhyphen"/>ver yet were judged worthy to bee <hi>truſted</hi> with the Cauſe, that never <hi>bled,</hi> nor <hi>fought,</hi> nor <hi>prayed</hi> for it, that have nei<g ref="char:EOLhyphen"/>ther <hi>Courage,</hi> nor <hi>Conduct.</hi> They ſee you <hi>prone</hi> to <hi>pardon</hi> a ſpirit beneath your own, but not above; they that would carry you back, or halt you in the work, but not they that preſs you forward: they ſee you <hi>ſhrunk,</hi> and <hi>leſs</hi> in your <hi>Publick Declarations</hi> than many years ago; you were <hi>taller</hi> by the head and ſhoulders in your <hi>publick words</hi> and <hi>works,</hi> in 49. and 51. than now, they ſaw <hi>greater reaſon to rejoyce</hi> at what you ſaid and did then, than now; They had <hi>higher hopes</hi> of true Liberty, both as men and Chriſtians then, than now: which ſhews that the <hi>Rebukes</hi> that have been upon you, have
+<pb n="4" facs="tcp:119438:3"/> not been <hi>Sanctified,</hi> nor you <hi>bettered</hi> and <hi>improved</hi> thereby At your firſt ſitting, you were an apparent bleſſing to the Nation, which begat in all good people longings for your rerurn again, in hopes to finde you yet better: but not ſo; you were a ſecond time interrupted, and good men ingaged for your Return, with heightned expectation you would rule righteouſly and purely for God and your Generation; but behold worſt of all. I beſeech you lay it to heart, exa<g ref="char:EOLhyphen"/>mine and ſee what is the reaſon you dye and wither in the eſteem of good men; ſee whether you have anſwered thoſe private and perſonal Obligations to good people at <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> the <hi>Fleet, London,</hi> and every where, which made them not value their lives for your ſakes; and ſee whether <hi>all this</hi> gives not <hi>Great Ground of Fear,</hi> that your (and our) glaſs is run, and <hi>an overflowing ſcourge</hi> juſt ready to ſeize upon us.</p>
+            <p>Again, <hi>Leſſer faults in good men</hi> are puniſhed ſeverely, while <hi>greater in others</hi> are let go ſcot-free; which doth demonſtrate your ſpirit is rather <hi>united</hi> to <hi>evil</hi> than <hi>good;</hi> what elſe can bee the reaſon that Sir <hi>Henry Vane</hi>'s expell'd your houſe, for framing onely a form of Government, never received nor practiſed (though I deſire not to bee underſtood, as adjuſt<g ref="char:EOLhyphen"/>ing his Act, or condemning yours ſimply conſidered) and <hi>Oliver</hi> St. <hi>John,</hi> one that was both, yet hee can keep his Seat, have impunity, and rule the Roſt? it is true, the Act was private and perſonal, yet did it, and the ſecluding Major <hi>Salloway,</hi> liberally diſcover the <hi>Complexion</hi> and <hi>Temperature</hi> of your houſe.</p>
+            <p>Again, You <hi>kiſs and hug</hi> them, that <hi>ſcorn and hate</hi> you, and <hi>ſleight</hi> ſuch as <hi>faithfully ſerved</hi> you. Your declaration (a pit<g ref="char:EOLhyphen"/>tiful dull confuſed ſapleſs peece) courteth the <hi>Clergy</hi> and the <hi>Lawyer,</hi> a brace of birds, that ever yet have indeavoured to pick out your eyes; Oh Lord! what <hi>ſad fate</hi> muſt needs at<g ref="char:EOLhyphen"/>tend that power that accounts it their intereſt to exalt their <hi>Eminenteſt Enemies,</hi> and ſhake off their <hi>ſureſt friends?</hi> was it the <hi>Lawyer</hi> brought you back to the exerciſe of your power? Or did hee not rather laugh and ſcorn you? was it <hi>Oxford</hi> and <hi>Cambridge, Calamy</hi> and <hi>Caſe,</hi> that ſteered your Fleet? raiſed your Siege? incenſed your ſouldiers ſo, as they would
+<pb n="5" facs="tcp:119438:3"/> either die or ſet you in your ſeats again? Was there no <hi>Sectarian</hi> put their neek in the Nooſe for you? and did what none elſe either could or dared to do? and muſt they <hi>now deſpond,</hi> hang their heads, and be aſhamed to look their friends in the face, through your abuſe of the adventure of their blood?</p>
+            <p>Furthermore, 'tis a great diſcouragement to your friends, to ſee the <hi>giddineſs and inſtability</hi> of your actings. One day ſolemnly thank Col. <hi>Rich</hi> for his good ſer<g ref="char:EOLhyphen"/>vice; the next, conſpiring to cut his throat: if he did indeed ſerve you, your latter proceeds are ugly: If otherwiſe, your thanks was grounded upon ignorance; ſo that whe<g ref="char:EOLhyphen"/>ther hee ſerved you, or ſerved you not, you do much diſ<g ref="char:EOLhyphen"/>ſerve your ſelves by ſuch actings. For the veil is too thin, all men do ſee and ſay, 'tis not <hi>Rich</hi> or <hi>Ludlow,</hi> but the <hi>whole Sectarian party,</hi> ſome among your ſelves deſign to ruine; and to the end, they m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the better uſher in the <hi>ex<g ref="char:EOLhyphen"/>iled Intereſt.</hi>
+            </p>
+            <p>Moreover conſider, Can you at once ſuppreſs the Sec<g ref="char:EOLhyphen"/>tarian, and keep out the King? I know not what you may imagine, but the wiſeſt without doors think otherwiſe. Now if this be impoſſible, then an ideot may make the in<g ref="char:EOLhyphen"/>ference, that look how much you lay aſide the Sectarian, juſt ſo much you lay aſide of your ſtrength, and propa<g ref="char:EOLhyphen"/>gate the intereſt of <hi>Charls Stuart.</hi> How behoveful there<g ref="char:EOLhyphen"/>fore is it, that you eye this evil betimes, and ſuffer not your Forces nor Fleets to bee baptized too much into the Boothian Spirit; Enfeebling your ſelves, and laying fur<g ref="char:EOLhyphen"/>ther preſſures and diſcouragements upon the hearts of your Friends. Many other diſcouragements I might e<g ref="char:EOLhyphen"/>numerate. But your time is precious, ſo alſo is mine.</p>
+            <p>4 Your <hi>Trade's decayed.</hi> I preſume you will give mee your faith (without proof) that it is ſo: how it came and why it continues; every one ſatisfies himſelf with his own reaſon, and therefore I ſhall ſpare my pain and your trouble: onely let mee tell you, this is the dame of all, idleneſs; and no vice can bee your friend, if you intend a Common-wealth. Lack of imployment firſt fo<g ref="char:EOLhyphen"/>ments,
+<pb n="6" facs="tcp:119438:4"/> then foſters diſcontents. No men of metal will ſtarve while meat is to bee had, if they cannot have it by a civil imployment, they will by a military, and if you cannot liſt them, others ſhall; for it is not choice but neceſſity which brings them to you, and that alſo ſhall carry them from you. Thus you ſee how nature hath diſtreſſed your affairs, and all men lay all their lacks on you. A ſpeedy applying of your ſelves therefore effec<g ref="char:EOLhyphen"/>tually to remedy this diſtemper, is certainly your duty, or this ſingle evil, which is not eaſily buried, will ſink you.</p>
+            <p>5 Your <hi>Treaſure's exhauſted;</hi> yet would not this diſ<g ref="char:EOLhyphen"/>eaſe bee incureable, were not your Army and Navy in Arrear; invert therefore, that proverb that mony anſwers all things, and you will take a true accompt of your own condition: how you will fill the empty purſe, con<g ref="char:EOLhyphen"/>ſidering the difficulties, as well forreign as domeſtick, that you muſt encounter, is worthy your ſerious thoughts. You may aſſeſs, but the humour of a <hi>Free Parleament,</hi> ſupport<g ref="char:EOLhyphen"/>ed by all the art and intereſt of the <hi>Royalliſt</hi> and <hi>Secluded Members,</hi> gives too good reaſon to doubt the Collections will bee but ſlow in the Country. Adde heteunto the <hi>E<g ref="char:EOLhyphen"/>nemies</hi> you make your ſelves (to wit) all the <hi>Sectarian in<g ref="char:EOLhyphen"/>tereſt,</hi> (who certainly will moſt unwillingly maintain their oppreſſors) together with the general want of Trade, as aforeſaid: and I fear you will finde ſuch a dulneſs, as (if I miſtake not) your Exigents cannot indure: How har<g ref="char:EOLhyphen"/>dy you are, I know not, but I aſſure you this conſide<g ref="char:EOLhyphen"/>ration hath a very grim and gaſtly aſpect, and hath in very legible characters (at leaſt in my apprehenſion) the death of our Cauſe ingraven on it. I ſhall not ſo much as mention the infinite inconveniences that are entailed to this; only will ſay (what you may obſerve) this Army ſerves you not on principle, but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or pay; I will not deny but there are among them that would have me by the ears, ſhould they know I ſaid ſo: but deceive not your ſelves: could <hi>Dick</hi> have kept them, they had never been yours; and they ſtaid with <hi>Fleetwood</hi> till they had eat up the three laſt months Aſſeſſement; nor had they left him yet, could he have got or lent them more.</p>
+            <pb n="7" facs="tcp:119438:4"/>
+            <p>Laſtly, Your <hi>Enemies increaſe,</hi> and that both in <hi>Nnmber</hi> and <hi>Nature;</hi> for you <hi>create Enemies</hi> to your ſelves, and this with ſo great an induſtry, that were I an alien, I ſhould think it your intereſt to do ſo; For no man ever could imagine any power ſhould bee ſo buſily oc<g ref="char:EOLhyphen"/>cupied in kicking off its faſteſt friends. Are not your <hi>Old Enemies</hi> enough, but you muſt make <hi>New?</hi> This carries conviction with it, that you intend to take your <hi>Old Ene<g ref="char:EOLhyphen"/>mies,</hi> for <hi>New Friends,</hi> but <hi>woful</hi> is this advice; and <hi>una<g ref="char:EOLhyphen"/>voidable ruine</hi> will bee the effect, and if you enter not in<g ref="char:EOLhyphen"/>to new Counſels, farewel for ever the Old Cauſe. The <hi>waies to ſave you,</hi> are but two. <hi>Eſpouſe again, and indulge the Sectarian Intereſt;</hi> for a little time will tell you, you can<g ref="char:EOLhyphen"/>not keep out the King without their aid, his intereſt or theirs you muſt make yours. The <hi>Presbyter</hi> alone can<g ref="char:EOLhyphen"/>not <hi>preſerve</hi> you if they <hi>would,</hi> and three parts of four would not, if they <hi>could;</hi> think not I ſpeak at ran<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The other is, the <hi>ſpeedy filling up your houſe;</hi> contempt's upon you, becauſe of your paucity; nor will the ſecluded Members give up their claime, till others are in their room.</p>
+            <p>Beſides, as you are, you are not a <hi>Competent Repreſen<g ref="char:EOLhyphen"/>tative,</hi> for ſo large a Territory, as <hi>England</hi> is. Many pla<g ref="char:EOLhyphen"/>ces have none to repreſent them at all, and you have oſt declared no Laws ſhall bee made, nor m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny raiſed, but by the peoples Repreſentatives in Parliament, ſo that you your ſelves have tied their purſe; nor will you get it o<g ref="char:EOLhyphen"/>pen without knocks till then. Moreover, your enemies increaſe upon you, becauſe no man ſees you have any maw to this work, but rather think of keeping the power in your own clutches. This alſo is the reaſon of your want of Trade, becauſe every wiſe man ſees you cannot hold it as you are; and no man will manage af<g ref="char:EOLhyphen"/>fairs, and adventure his ſtock, whiles affairs of State are at this uncertainty; and they who would minde their bu<g ref="char:EOLhyphen"/>ſineſs, and imploy themſelves and others, growing idle, and their monies lying dead, become enemies to you, as the cauſe thereof, nor can any excuſe bee formed for you.</p>
+            <pb n="8" facs="tcp:119438:5"/>
+            <p>To conclude, how many would bee thorow Com<g ref="char:EOLhyphen"/>mon-wealths-men, ſaw they you ſo? but whiles you are uncertain, ſo are they, and judge it imprudent to out<g ref="char:EOLhyphen"/>pace the power; to abjure Monarchy, and the Monarch alſo, till the State doth it; after you is good manners, becauſe if you vary, they are undone; would you tye a<g ref="char:EOLhyphen"/>ny faſter than your ſelves? that is moſt unrighteous; if you will reſerve a turn to the King, quarrel not others for being reſerved alſo; Lead the Van therefore over <hi>Rubi<g ref="char:EOLhyphen"/>con,</hi> doubt not enough will follow, but it muſt bee alſo for a free, juſt, and equal Common-wealth; not that one party or perſwaſion muſt have all the Magiſtracies in their own hands, and all the reſt as Servitors attend<g ref="char:EOLhyphen"/>ing it; no, this is but the name, it is the thing you muſt ſet up, or the name of <hi>Charls Stuart</hi> will bee better, and finde more followers than it. Sirs, your Veſſel's leaky, and your Pump too little; carreen her quickly, or you ſink paſt all recovery. This is the humble, but hearty ad<g ref="char:EOLhyphen"/>vice of</p>
+            <closer>
+               <signed>Your Faithful Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the Author. 1660.</p>
+            <pb facs="tcp:119438:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
